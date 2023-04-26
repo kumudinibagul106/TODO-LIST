@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+	background-image: url("data:image/jpeg;base64,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");
+}
+
+h1 {
+	color: rgb(233, 100, 17);
+	font-size: 55px;
+	font-weight: 70;
+	text-align: center;
+	margin: 1rem 0 3rem; 
+	font-family: 'Trebuchet MS', sans-serif;
+}
+
+.title{
+	color: rgb(66, 31, 207);
+	text-transform: uppercase;
+	font-weight: 900;
+	font-style: bold;
+	font-size: 60px;
+}
+
+.inputDiv{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.input{
+	color: black;
+    padding: 0.5rem 1rem;
+    outline: none;
+    border: none;
+    height: 50px;
+    border-radius: 25px;
+    width: 350px;
+    margin: 0.25rem;
+    transition: .5s;
+    font-size: 1.15rem;
+	background-color: lightgray;
+	font-family: 'Fantasy', 'sCopperplate';
+}
+
+.add{
+	outline: none;
+    border: none;
+    height: 50px;
+    border-radius: 25px;
+    width: 50px;
+    background-color: rgb(66, 31, 207);
+    color: yellow;
+    cursor: pointer;
+    transition: .5s;
+    margin: 0.25rem;
+}
+
+.add:hover{
+	opacity: 0.7;
+}
+
+.container{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin-top: 2rem;
+}
+
+.item{
+	padding: 0.5rem;
+	border-bottom: 3px solid rgb(62, 54, 176);
+	margin-bottom: 1.5rem;
+}
+
+.item_input{
+	background: none;
+	outline: none;
+	border: none;
+	color: rgb(239, 14, 149);
+	font-size: 1.6rem;
+	width: 245px;
+}
+
+.edit{
+	background: none;
+	outline: none;
+	border: none;
+	color: rgb(96, 26, 46);
+	font-size: 20px;
+	font-family: 'Trebuchet MS', sans-serif;
+	margin: 0 0.5rem;
+	cursor: pointer;
+	font-style: bold;
+}
+
+.remove{
+	background: none;
+	outline: none;
+	border: none;
+	color: rgb(166, 15, 15);
+	font-size: 20px;
+	font-family: 'Trebuchet MS', sans-serif;
+	cursor: pointer;
+	font-style: bold;
+}
